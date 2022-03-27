@@ -1,0 +1,9 @@
+flask
+flask-login
+oauthlib
+oauth2
+requests
+pyopenssl
+python-decouple
+ua-parser
+werkzeug

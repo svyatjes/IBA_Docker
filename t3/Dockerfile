@@ -1,0 +1,1 @@
+FROM devopsdockeruh/exec_bash_exercise
